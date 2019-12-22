@@ -1,0 +1,66 @@
+PODS:
+  - Differentiator (4.0.1)
+  - DynamicBlurView (4.0.0)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.0.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - SCLAlertView (0.8)
+  - SDWebImage (5.4.0):
+    - SDWebImage/Core (= 5.4.0)
+  - SDWebImage/Core (5.4.0)
+  - SVProgressHUD (2.2.5)
+  - SwiftMessageBar (5.5.0)
+  - UIScrollView-InfiniteScroll (1.1.0)
+
+DEPENDENCIES:
+  - PopupDialog (~> 1.1)
+  - RxCocoa (~> 5)
+  - RxDataSources (~> 4.0)
+  - RxSwift (~> 5)
+  - SCLAlertView
+  - SDWebImage
+  - SVProgressHUD
+  - SwiftMessageBar
+  - UIScrollView-InfiniteScroll
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - DynamicBlurView
+    - PopupDialog
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - SCLAlertView
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftMessageBar
+    - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  DynamicBlurView: ccf9acd2b20c883cc2c72e3524a04d8d3ee20533
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: 89d54507f4fd4d969e6ec1d4bd7f3673640b4640
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SDWebImage: 5bf6aec6481ae2a062bdc59f9d6c1d1e552090e0
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftMessageBar: fc77dd423d52e71fc85fb7a162a9ffc5c858e613
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+
+PODFILE CHECKSUM: 2dca9edc394af9d8dff21e7dda1c22089033861d
+
+COCOAPODS: 1.8.4

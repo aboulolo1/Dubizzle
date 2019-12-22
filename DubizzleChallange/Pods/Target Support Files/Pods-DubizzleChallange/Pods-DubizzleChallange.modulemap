@@ -1,0 +1,6 @@
+framework module Pods_DubizzleChallange {
+  umbrella header "Pods-DubizzleChallange-umbrella.h"
+
+  export *
+  module * { export * }
+}
